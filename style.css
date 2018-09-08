@@ -34,3 +34,21 @@
 /*	max-height: 80px;*/
 	max-height: 140px;
 }
+
+
+/*@media screen and (min-width: 48em)*/
+.site-content {
+/*    padding: 5.5em 0 0;*/
+    padding: 2em 0 0;
+}
+.page.page-one-column .entry-header, .twentyseventeen-front-page.page-one-column .entry-header, .archive.page-one-column:not(.has-sidebar) .page-header {
+/*    margin-bottom: 4em;*/
+    margin-bottom: 0em;
+}
+
+/* réduction de la marge entre le menu et le titre de la page*/
+
+	.panel-content .wrap {
+		padding-top: 2em;
+	}
+

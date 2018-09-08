@@ -28,3 +28,9 @@
 		max-height: 50%;
 		overflow: hidden;
 	}
+
+/* Augmentation de la taille du logo dans le titre*/
+.custom-logo-link img {
+/*	max-height: 80px;*/
+	max-height: 140px;
+}
